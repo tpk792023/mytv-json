@@ -423,13 +423,13 @@
         "name": "SPOTV (HD)",
         "group": "SPOTV",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/60\/0c\/ce\/e6\/6b\/b9\/60ce6-pspotvhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=632"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=632"
     },
     {
         "name": "SPOTV2 (HD)",
         "group": "SPOTV",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/53\/3d\/db\/b8\/85\/59\/53db8-pspotv2hd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=633"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=633"
     },
     {
         "name": "CINEMAWORLD HD",
@@ -441,67 +441,67 @@
         "name": "CartoonNetwork HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/6f\/ff\/f4\/47\/73\/3b\/6ff47-pcartoonnetworkhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=592"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=592"
     },
     {
         "name": "CNN HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/93\/3c\/c3\/3a\/ab\/be\/93c3a-pcnnhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=593"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=593"
     },
     {
         "name": "AXN HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/68\/8a\/a7\/70\/06\/6f\/68a70-paxnhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=590"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=590"
     },
     {
         "name": "Hollywood Classic",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/de\/ee\/ea\/a0\/07\/7f\/deea0-phollywoodclasic-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=866"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=866"
     },
     {
         "name": "Woman",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/34\/40\/05\/5b\/b7\/72\/3405b-pwomen-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=869"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=869"
     },
     {
         "name": "DMAX (HD)",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/be\/ed\/de\/e9\/92\/2a\/bede9-pdmaxhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=739"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=739"
     },
     {
         "name": "Discovery(HD)",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/3c\/cb\/b3\/37\/74\/49\/3cb37-pdiscoveryhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=594"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=594"
     },
     {
         "name": "FTV(HD)",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/02\/29\/9b\/bd\/da\/aa\/029bd-pftvhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=595"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=595"
     },
     {
         "name": "Warner HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/3e\/e1\/1d\/df\/f7\/7c\/3e1df-pwarnerhd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=597"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=597"
     },
     {
         "name": "Animal Plannet HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/c7\/7d\/df\/fb\/bc\/c3\/c7dfb-panimalplannethd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=589"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=589"
     },
     {
         "name": "TLC HD",
         "group": "Khác",
         "logo": "https:\/\/s72139.cdn.mytvnet.vn\/vimages\/ce\/e5\/50\/09\/97\/74\/ce509-ptlchd-channel-unkn.png",
-        "url": "http://phuockhai.giize.com:1979/mytv1/new1/get.php?id=596"
+        "url": "http://hoangai.dpdns.org:8082/mytv/get1.php?id=596"
     },
     {
         "name": "VNPT Promo",
